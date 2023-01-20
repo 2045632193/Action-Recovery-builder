@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_k71v1_64_bsp'
+        default: 'twrp_k71v1_64_bsp'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
